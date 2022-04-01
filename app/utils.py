@@ -1,3 +1,3 @@
 from pathlib import Path
 
-BASE_DIR = Path(__file__).parent
+BASE_DIR = lambda path : str(Path(__file__).parent / path)

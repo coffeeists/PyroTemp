@@ -2,16 +2,20 @@
 
 base template of pyrogram projects
 
-## Quick run
+<br/>
 
-```bash
-python3 app
-```
+## What is mean templates in Github?
 
+<br/>
+
+### fitures
+
+
+### Quick run
+
+    python3 app
 or
 
-```bash
-python3 app/main.py
-```
+    python3 app/main.py
 
 > you also can change 'app' folder name

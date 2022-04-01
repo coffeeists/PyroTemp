@@ -1,13 +1,17 @@
 # PyroTemp
+
 project themplate for pyrogram freamwork projects
-<br>
-<br>
-### Quick run :
+
+## Quick run
+
+```bash
+python3 app
 ```
-$ python3 app
+
+or
+
+```bash
+python3 app/main.py
 ```
-or 
-```
-$ python3 app/main.py
-```
+
 > you also can change 'app' folder name

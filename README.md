@@ -1,21 +1,28 @@
 # PyroTemp
 
-base template of pyrogram projects
+>base template of pyrogram projects
 
 <br/>
 
-## What is mean templates in Github?
+## what is PyroTemp?
+
+>PyroTemp is a template repo for base of pyrogram projects<br/>
+>pyrotemp prepare anything you need for start a pyrogram projects <br/>
+> [see here](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template) for more details about template reop's
 
 <br/>
 
-### fitures
+## futuers
 
+> + personlised filters
+> + dockrise
+
+
+<br />
 
 ### Quick run
 
     python3 app
-or
 
-    python3 app/main.py
 
-> you also can change 'app' folder name
+> you also can change 'PyroTemp' folder name

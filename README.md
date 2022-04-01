@@ -1,6 +1,6 @@
 # PyroTemp
 
-project themplate for pyrogram freamwork projects
+base template of pyrogram projects
 
 ## Quick run
 

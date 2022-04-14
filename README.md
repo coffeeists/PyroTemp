@@ -22,7 +22,7 @@
 
 ### Quick run
 
-    python3 app
+	python3 PytoTemp
 
 
 > you also can change 'PyroTemp' folder name
